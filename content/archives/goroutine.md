@@ -5,7 +5,7 @@ draft: false
 url: goroutine
 categories: 笔记
 tags: 
-    Go
+  - Go
 ---
 
 ## GMP模型

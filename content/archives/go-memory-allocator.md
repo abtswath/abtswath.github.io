@@ -4,7 +4,7 @@ date: 2022-10-21T17:16:23+08:00
 draft: false
 categories: 笔记
 tags: 
-    Go
+  - Go
 ---
 
 ## 内存分配策略

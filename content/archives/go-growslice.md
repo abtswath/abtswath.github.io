@@ -4,7 +4,7 @@ date: 2022-10-21T17:33:32+08:00
 draft: false
 categories: 笔记
 tags: 
-    Go
+  - Go
 ---
 
 ### 1.18 之前
