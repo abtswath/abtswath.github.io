@@ -1,8 +1,8 @@
 ---
 title: "Go 切片扩容"
 date: 2022-10-21T17:33:32+08:00
-draft: true
-categories: Go
+draft: false
+categories: 笔记
 tags: 
     Go
 ---
